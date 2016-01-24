@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repostiroy, several meta-data files are created. You need to do to track
+files in the repository directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staing area connects the working directory to the repository. The staging area allows you to 
+choose which files to commit instead of commiting all the files in the working directory at once.
